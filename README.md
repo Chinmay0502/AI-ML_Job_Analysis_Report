@@ -17,6 +17,7 @@ The dashboard was built using the following tools and technologies:
 🧠 DAX (Data Analysis Expressions) – Measures for KPIs, salary calculations, and role-based insights
 🧩 Data Modeling – Relationships between job data, skills, salary, and company/location tables
 📁 File Format – .pbix for report development and .png for preview images
+
 4. Data Source
 
 Source: Kaggle / Job Portal Dataset (AI/ML Job Postings) (update based on your actual dataset source)
@@ -30,6 +31,7 @@ Experience Required
 Salary Range
 Required Skills / Technologies
 Job Type (Full-time / Internship / Remote, etc.)
+
 5. Features / Highlights
 ✅ Business Problem
 
@@ -104,6 +106,7 @@ Recruitment Insights: HR teams can understand market salary benchmarks and hirin
 Skill Demand Tracking: Highlights which technologies are most valuable in the AI/ML market.
 Regional Job Analysis: Helps compare job opportunities across different locations.
 Salary Benchmarking: Provides quick salary trends for different experience levels and roles.
+
 6. Screenshots / Demos
 Ai/ML Job Report Overview :-
 ![Alt text](https://github.com/Chinmay0502/AI-ML_Job_Analysis_Report/blob/main/Snapshot_Job_Analysis_Report1.png)
