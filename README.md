@@ -106,10 +106,10 @@ Regional Job Analysis: Helps compare job opportunities across different location
 Salary Benchmarking: Provides quick salary trends for different experience levels and roles.
 6. Screenshots / Demos
 Ai/ML Job Report Overview :-
-https://github.com/Chinmay0502/AI-ML_Job_Analysis_Report/blob/main/Snapshot_Job_Analysis_Report1.png
+![Alt text](https://github.com/Chinmay0502/AI-ML_Job_Analysis_Report/blob/main/Snapshot_Job_Analysis_Report1.png)
 Locations Insights Overview :-
-https://github.com/Chinmay0502/AI-ML_Job_Analysis_Report/blob/main/Snapshot_Job_Analysis_Report2.png
+![Alt text](https://github.com/Chinmay0502/AI-ML_Job_Analysis_Report/blob/main/Snapshot_Job_Analysis_Report2.png)
 Company And Role Insights Overview:-
-https://github.com/Chinmay0502/AI-ML_Job_Analysis_Report/blob/main/Snapshot_Job_Analysis_Report3.png
+![Alt text](https://github.com/Chinmay0502/AI-ML_Job_Analysis_Report/blob/main/Snapshot_Job_Analysis_Report3.png)
 Skills And Hiring Insights Overview :-
-https://github.com/Chinmay0502/AI-ML_Job_Analysis_Report/blob/main/Snapshot_Job_Analysis_Report4.png
+![Alt text](https://github.com/Chinmay0502/AI-ML_Job_Analysis_Report/blob/main/Snapshot_Job_Analysis_Report4.png)
